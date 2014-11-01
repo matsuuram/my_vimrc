@@ -1,0 +1,3 @@
+"------
+" コマンド？
+set ignorecase
